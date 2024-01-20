@@ -1,4 +1,4 @@
-# **⚡ Elias Sjödin - Front-End Engineer**
+# **⚡ Elias Sjödin - Software Engineer**
 <!--
 **ilittlebig/ilittlebig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
